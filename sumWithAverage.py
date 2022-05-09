@@ -10,6 +10,4 @@ print(f"The Sum is {sum}")
 print(f"The Average is  {average}")
 
 # Find the greatest Number
-# Find the Smallest Number
-
-
+# Find the Smallest NumberS
