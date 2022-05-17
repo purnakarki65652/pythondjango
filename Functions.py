@@ -78,8 +78,3 @@ def add():
 
 add()
 print("In main:", c)
-
-
-name = input("Enter your Name? ")
-#function Call
-greet(name)
