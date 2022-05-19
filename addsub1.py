@@ -1,6 +1,6 @@
 class add_sub:
     def __init__(self):
-       print("You are going to use arithmetic oprations")
+       print("You are going to use arithmetic operations")
     # define 'add' method
     def add(self, num1, num2):
         self.n1=num1
