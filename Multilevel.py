@@ -14,7 +14,7 @@ class Base(object):
 class Child(Base):
     # Constructor
     def __init__(self, name, age):
-        #Base.__init__(self, name)
+        Base.__init__(self, name)
         super().__init__(self, name)
         self.age = age
     # To get name
