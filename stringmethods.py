@@ -8,7 +8,7 @@ print(text.strip("m"))
 text="madam"
 print(text.strip("ma"))
 
-text="madam"
+text="mada"
 print(text.strip("a"))
 
 
